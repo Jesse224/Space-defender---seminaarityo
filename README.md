@@ -1,4 +1,4 @@
-# Space-defender---seminaarityo (Toimiva, mutta jatkan vielä)
+# Space-defender---seminaarityo (Toimiva, mutta jatkan vielä kehittämistä)
 
 # Space Defender -pelisuunnitelma (Python)
 
@@ -76,6 +76,7 @@ Tämä on suunnitelma yksinkertaisen 2D Space Defender -tyyppisen pelin tekemise
 *   **Viikko 4:** Pisteet, pelin loppu, lisäominaisuudet.
 
 ## Pelin ohjeet:
+*   Peli ajetaan "python space_defender.py" komennolla ja pygame pitää olla asenettuna laitteella.
 *   Pelaaja alusta liikutetaan nuoli näppäimillä ja ammutaan SPACE - näppäimellä.
 *   Vihollisia ilmestyy satunnaisesti peli ruudun yläreunasta.
 *   Tällä hetkellä voi ampua vihollisia ja tuhoutua itse, jos vihollinen osuu pelaajaan, jolloin peli aloitetaan alusta.

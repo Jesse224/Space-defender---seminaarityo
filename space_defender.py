@@ -204,8 +204,7 @@ while running:
         pygame.time.Clock().tick(60)
 
     elif game_state == "gameover":
-        # Tähän voitaisiin lisätä "Game Over" -ruutu, mutta palataan tässä menuun
+        # Tähän voisi lisätä "Game Over" -ruutu
         show_menu()  # Näytetään menu uudelleen
-        # Voitaisiin myös tehdä erillinen gameover-funktio
 
 pygame.quit()

@@ -79,4 +79,5 @@ Tämä on suunnitelma yksinkertaisen 2D Space Defender -tyyppisen pelin tekemise
 *   Peli ajetaan "python space_defender.py" komennolla ja pygame pitää olla asenettuna laitteella.
 *   Pelaaja alusta liikutetaan nuoli näppäimillä ja ammutaan SPACE - näppäimellä.
 *   Vihollisia ilmestyy satunnaisesti peli ruudun yläreunasta.
-*   Tällä hetkellä voi ampua vihollisia ja tuhoutua itse, jos vihollinen osuu pelaajaan, jolloin peli aloitetaan alusta.
+*   Tällä hetkellä voi ampua vihollisia ja tuhoutua itse, jos vihollinen osuu pelaajaan.
+*   Vihollinen ei saa päästä ruudun alareunaan.
